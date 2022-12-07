@@ -61,7 +61,7 @@ public class brokenlinks1 {
 		
 		}
 		
-		System.out.println(brokenlink);
+		System.out.println("brokenlink count:"+brokenlink);
 		
 	}
 

@@ -17,8 +17,12 @@ public class excellsheet1 {
 		
 		FileInputStream data=new FileInputStream(path);
 		
-String s=WorkbookFactory.create(data).getSheet("sheet1").getRow(0).getCell(0).getStringCellValue();	
-		System.out.println(s);
+        String s=WorkbookFactory.create(data).getSheet("sheet1").getRow(0).getCell(0).getStringCellValue();	
+		
+        System.out.println(s);
+	
+	
+	
 	}
 
 }
