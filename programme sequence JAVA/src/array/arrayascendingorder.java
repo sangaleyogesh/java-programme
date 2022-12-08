@@ -5,7 +5,7 @@ public class arrayascendingorder {
 	public static void main(String[]args) {
 
 	
-	int arr[]= {10,5,6,8,25,2};
+	int arr[]= {10,5,6,8,25,2,30};
 	
 	int temp;
 	
